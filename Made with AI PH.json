@@ -8,19 +8,18 @@
       "0": {
          "title":"How AI Works",
          "volume":"One",
+         "last_updated": "1688023707",
          "groups":{
             "The MWA Team":"/proxy/api/imgur/chapter/ci2Q9bn"
-         },
-         "last_updated":"1688023707",
+         }
       },
-      
       "1": {
          "title":"Problems with AI",
          "volume":"One",
+         "last_updated":"1688023707",
          "groups":{
             "The MWA Team":"/proxy/api/imgur/chapter/NBL46n1"
-         },
-         "last_updated":"1688023707",
+         }
       }
    }
 }
