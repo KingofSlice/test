@@ -5,21 +5,21 @@
    "author":"The MWA Team",
    "cover":"https://imgur.com/3yYRD1t",
    "chapters":{
-      "0":{
+      "0": {
          "title":"How AI Works",
          "volume":"One",
          "groups":{
             "The MWA Team":"/proxy/api/imgur/chapter/ci2Q9bn"
          },
-         "last_updated":"1688023707"
+         "last_updated":"1688023707",
       },
-      "1":{
+      "1": {
          "title":"Problems with AI",
          "volume":"One",
          "groups":{
             "The MWA Team":"/proxy/api/imgur/chapter/NBL46n1"
          },
-         "last_updated":"1688023707"
+         "last_updated":"1688023707",
       }
    }
 }
