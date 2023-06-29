@@ -3,15 +3,23 @@
    "description":"This is a post compilation for user testing a social media campaign.",
    "artist":"The MWA Team",
    "author":"The MWA Team",
-   "cover":"https://imgur.com/a/34Pwr67",
+   "cover":"https://imgur.com/3yYRD1t",
    "chapters":{
       "0":{
          "title":"How AI Works",
          "volume":"One",
          "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/ci2Q9bn"
+         },
+         "last_updated":"1688023707"
+      }
+      "1":{
+         "title":"Problems with AI",
+         "volume":"One",
+         "groups":{
             "The MWA Team":"/proxy/api/imgur/chapter/NBL46n1"
          },
-         "last_updated":"1616368746"
+         "last_updated":"1688023707"
       }
    }
 }
