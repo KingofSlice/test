@@ -1,17 +1,17 @@
 {
-  "title": "<Made With AI PH>",
-  "description": "<This is a post compilation for user testing a social media campaign>",
-  "artist": "<The MWA Team>",
-  "author": "<The MWA Team>",
-  "cover": "<mangacoverurl.jpg>",
-  "chapters": {
-    "<1>": {
-      "title": "<How AI Works>",
-      "volume": "<One>",
-      "last_updated": "1616368746",
-      "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<ci2Q9bn>/"
+   "title":"<Made With AI PH>",
+   "description":"<This is a post compilation for user testing a social media campaign>",
+   "artist":"<The MWA Team>",
+   "author":"<The MWA Team>",
+   "cover":"<mangacoverurl.jpg>",
+   "chapters":{
+      "<1>":{
+         "title":"<How AI Works>",
+         "volume":"<One>",
+         "last_updated":"1616368746",
+         "groups":{
+            "<group name>":"/proxy/api/imgur/chapter/<ci2Q9bn>/"
+         }
       }
-    }
-  }
+   }
 }
