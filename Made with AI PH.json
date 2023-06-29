@@ -1,22 +1,22 @@
 {
-   "title":"Made With AI PH",
-   "description":"This is a post compilation for user testing a social media campaign.",
-   "artist":"The MWA Team",
-   "author":"The MWA Team",
-   "cover":"https://i.imgur.com/3yYRD1t.jpg",
+   "title": "User Testing Infographics",
+   "description": "This is a compilation of our infographics on Facebook and Instagram in chronological order.",
+   "artist": "The MWA Team",
+   "author": "The MWA Team",
+   "cover": "https://i.imgur.com/3yYRD1t.jpg",
    "chapters":{
       "0": {
-         "title":"How AI Works",
-         "volume":"One",
+         "title": "How AI Works",
+         "volume": "One",
          "last_updated": "1688023707",
          "groups":{
             "The MWA Team":"/proxy/api/imgur/chapter/ci2Q9bn"
          }
       },
       "1": {
-         "title":"Problems with AI",
-         "volume":"One",
-         "last_updated":"1688023707",
+         "title": "Problems with AI",
+         "volume": "One",
+         "last_updated": "1688023707",
          "groups":{
             "The MWA Team":"/proxy/api/imgur/chapter/NBL46n1"
          }
