@@ -6,6 +6,30 @@
    "cover": "https://i.imgur.com/3yYRD1t.jpg",
    "chapters":{
       "0": {
+         "title": "Countdown Posts",
+         "volume": "One",
+         "last_updated": "1688023707",
+         "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/oGDcAMj"
+         }
+      },
+      "1": {
+         "title": "The Fear of AI",
+         "volume": "One",
+         "last_updated": "1688023707",
+         "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/L2iuG6d"
+         }
+      },
+      "2": {
+         "title": "What is AI Art?",
+         "volume": "One",
+         "last_updated": "1688023707",
+         "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/ci2Q9bn"
+         }
+      },
+      "3": {
          "title": "How AI Works",
          "volume": "One",
          "last_updated": "1688023707",
@@ -13,12 +37,140 @@
             "The MWA Team":"/proxy/api/imgur/chapter/ci2Q9bn"
          }
       },
-      "1": {
+      "4": {
          "title": "Problems with AI",
          "volume": "One",
          "last_updated": "1688023707",
          "groups":{
             "The MWA Team":"/proxy/api/imgur/chapter/NBL46n1"
+         }
+      },
+      "5": {
+         "title": "Artist or Tool?",
+         "volume": "One",
+         "last_updated": "1688023707",
+         "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/NBL46n1"
+         }
+      },
+      "6": {
+         "title": "How Artists Can Use AI Art",
+         "volume": "One",
+         "last_updated": "1688023707",
+         "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/NBL46n1"
+         }
+      },
+      "7": {
+         "title": "The Pros of AI Art",
+         "volume": "One",
+         "last_updated": "1688023707",
+         "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/NBL46n1"
+         }
+      },
+      "8": {
+         "title": "The Cons of AI Art",
+         "volume": "One",
+         "last_updated": "1688023707",
+         "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/NBL46n1"
+         }
+      },
+      "9": {
+         "title": "The Value of Art",
+         "volume": "One",
+         "last_updated": "1688023707",
+         "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/NBL46n1"
+         }
+      },
+      "10": {
+         "title": "The Future of AI Art",
+         "volume": "One",
+         "last_updated": "1688023707",
+         "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/NBL46n1"
+         }
+      },
+      "11": {
+         "title": "AI References: Do They Work?",
+         "volume": "One",
+         "last_updated": "1688023707",
+         "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/USHPGtH"
+         }
+      },
+      "12": {
+         "title": "AI References: The Results",
+         "volume": "One",
+         "last_updated": "1688023707",
+         "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/gFO505Y"
+         }
+      },
+      "13": {
+         "title": "Facing Fears",
+         "volume": "One",
+         "last_updated": "1688023707",
+         "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/m8kTPh7"
+         }
+      },
+      "14": {
+         "title": "Outro Post",
+         "volume": "One",
+         "last_updated": "1688023707",
+         "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/m8kTPh7"
+         }
+      },
+      "15": {
+         "title": "Bonus: The Kultura Collection",
+         "volume": "Two",
+         "last_updated": "1688023707",
+         "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/WEBXGFT"
+         }
+      },
+      "16": {
+         "title": "Bonus: AI News Sample",
+         "volume": "Two",
+         "last_updated": "1688023707",
+         "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/VcC68Y1"
+         }
+      },
+      "17": {
+         "title": "Bonus: Weekly AI Story Question",
+         "volume": "Two",
+         "last_updated": "1688023707",
+         "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/DVPApVI"
+         }
+      },
+      "18": {
+         "title": "Bonus: Interview with Cecilio",
+         "volume": "Two",
+         "last_updated": "1688023707",
+         "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/RNI1GQx"
+         }
+      }
+      "19": {
+         "title": "Bonus: Interview with Kay",
+         "volume": "Two",
+         "last_updated": "1688023707",
+         "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/b4OpDuH"
+         }
+      }
+      "20": {
+         "title": "Bonus: Interview with Oodaalolly",
+         "volume": "Two",
+         "last_updated": "1688023707",
+         "groups":{
+            "The MWA Team":"/proxy/api/imgur/chapter/Pd5YNqG"
          }
       }
    }
